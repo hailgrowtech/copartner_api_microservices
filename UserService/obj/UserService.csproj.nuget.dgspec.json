@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\UserService\\UserService.csproj": {}
+    "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\UserService\\UserService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\CommonLibrary\\CommonLibrary.csproj": {
+    "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\CommonLibrary\\CommonLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\CommonLibrary\\CommonLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\CommonLibrary\\CommonLibrary.csproj",
         "projectName": "CommonLibrary",
-        "projectPath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\CommonLibrary\\CommonLibrary.csproj",
+        "projectPath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\CommonLibrary\\CommonLibrary.csproj",
         "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\CommonLibrary\\obj\\",
+        "outputPath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\CommonLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\UserService\\UserService.csproj": {
+    "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\UserService\\UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\UserService\\UserService.csproj",
+        "projectUniqueName": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\UserService\\UserService.csproj",
         "projectName": "UserService",
-        "projectPath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\UserService\\UserService.csproj",
+        "projectPath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\UserService\\UserService.csproj",
         "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\UserService\\obj\\",
+        "outputPath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\UserService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,8 +106,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\CommonLibrary\\CommonLibrary.csproj": {
-                "projectPath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\CommonLibrary\\CommonLibrary.csproj"
+              "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\CommonLibrary\\CommonLibrary.csproj": {
+                "projectPath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\CommonLibrary\\CommonLibrary.csproj"
               }
             }
           }

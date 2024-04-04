@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MqLGm+Sz3W798XDl9Bw0R1OfzyDrrP4dAo8mrtpl02H5OuGTH+OwcNPM8zr1/aTpa+9Zd+P5SdBGGdqL4pJ8gw==",
+  "dgSpecHash": "mdi3B5IC+1D2TAf3YKlzwDYwXg42szPXjW9JYgWG1C3YYF2ohE/xiG+OCwCuiDREbu32GkymCwhtAcDcP/rWqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\AuthenticationServices\\AuthenticationService.csproj",
+  "projectFilePath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\AuthenticationServices\\AuthenticationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akash\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\akash\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

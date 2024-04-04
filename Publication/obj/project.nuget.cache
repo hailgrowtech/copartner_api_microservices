@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vKnLFrakEOkc6cKfBRy+VovvAOHRmzjNcC4OHsym7TgwWp553Xx+WRfCfmDg0V69Sa6CFj6hvHiN4mFdIouPmQ==",
+  "dgSpecHash": "0WuW4qBdAcorKlz+/mRqL93/fAb1xP9iZZUfLt70Dfj0UEtR05V7IK8hcC18G8EqYPcrYfBN1Jx/Bn/c7BbVgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\Publication\\Publication.csproj",
+  "projectFilePath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\Publication\\Publication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akash\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

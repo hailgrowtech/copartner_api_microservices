@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YHnb0nK2Q1xAOijTsIhaA7GsZ+SBcQ+mpWXJm/V4g35aucgLKqp7beYnEuPXEZJWIzPuATFMZCc3bmIkg5fl1A==",
+  "dgSpecHash": "u/DZVBdE0rMxtRLnu1buz69ew2BxQmGinsAbYAdJEyeYnD+hYhcXM3KDwwE3tL2go1tfDoiJ7cV1zGvLez6LYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\UserService\\UserService.csproj",
+  "projectFilePath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\UserService\\UserService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akash\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\akash\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

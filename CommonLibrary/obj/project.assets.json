@@ -1274,11 +1274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\CommonLibrary\\CommonLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\CommonLibrary\\CommonLibrary.csproj",
       "projectName": "CommonLibrary",
-      "projectPath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\CommonLibrary\\CommonLibrary.csproj",
+      "projectPath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\CommonLibrary\\CommonLibrary.csproj",
       "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\CommonLibrary\\obj\\",
+      "outputPath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\CommonLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akash\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\Publication\\Publication.csproj",
+      "projectUniqueName": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\Publication\\Publication.csproj",
       "projectName": "Publication",
-      "projectPath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\Publication\\Publication.csproj",
+      "projectPath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\Publication\\Publication.csproj",
       "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\Publication\\obj\\",
+      "outputPath": "C:\\Users\\akash\\Desktop\\Akashcopartner\\copartner_api_microservices\\Publication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akash\\AppData\\Roaming\\NuGet\\NuGet.Config",
