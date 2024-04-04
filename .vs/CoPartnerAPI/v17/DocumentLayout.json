@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{87772AAE-7849-4154-AEE3-08196B228325}|UserService\\UserService.csproj|solutionrelative:userservice\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akash\\Desktop\\CoPartnerAPI\\UserService\\Migrations\\20240404073909_akashFirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserService\\Migrations\\20240404073909_akashFirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3C22C8E-613F-481E-BAD7-44E039D31BD5}|ExpertsService\\ExpertsService.csproj|c:\\users\\akash\\desktop\\copartnerapi\\expertsservice\\logic\\expertsbusinessprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3C22C8E-613F-481E-BAD7-44E039D31BD5}|ExpertsService\\ExpertsService.csproj|solutionrelative:expertsservice\\logic\\expertsbusinessprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F3C22C8E-613F-481E-BAD7-44E039D31BD5}|ExpertsService\\ExpertsService.csproj|c:\\users\\akash\\desktop\\copartnerapi\\expertsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F3C22C8E-613F-481E-BAD7-44E039D31BD5}|ExpertsService\\ExpertsService.csproj|solutionrelative:expertsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Migrations\\20240404071039_akashFirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpertsService\\Migrations\\20240404071039_akashFirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3C22C8E-613F-481E-BAD7-44E039D31BD5}|ExpertsService\\ExpertsService.csproj|c:\\users\\akash\\desktop\\copartnerapi\\expertsservice\\data\\expertsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,6 +69,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F3C22C8E-613F-481E-BAD7-44E039D31BD5}|ExpertsService\\ExpertsService.csproj|c:\\users\\akash\\desktop\\copartnerapi\\expertsservice\\commands\\createexpertscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3C22C8E-613F-481E-BAD7-44E039D31BD5}|ExpertsService\\ExpertsService.csproj|solutionrelative:expertsservice\\commands\\createexpertscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87772AAE-7849-4154-AEE3-08196B228325}|UserService\\UserService.csproj|c:\\users\\akash\\desktop\\copartnerapi\\userservice\\migrations\\20240404073909_akashfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87772AAE-7849-4154-AEE3-08196B228325}|UserService\\UserService.csproj|solutionrelative:userservice\\migrations\\20240404073909_akashfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C22C8E-613F-481E-BAD7-44E039D31BD5}|ExpertsService\\ExpertsService.csproj|c:\\users\\akash\\desktop\\copartnerapi\\expertsservice\\migrations\\20240404071039_akashfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C22C8E-613F-481E-BAD7-44E039D31BD5}|ExpertsService\\ExpertsService.csproj|solutionrelative:expertsservice\\migrations\\20240404071039_akashfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +90,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "20240404073909_akashFirst.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\UserService\\Migrations\\20240404073909_akashFirst.cs",
               "RelativeDocumentMoniker": "UserService\\Migrations\\20240404073909_akashFirst.cs",
@@ -98,12 +98,11 @@
               "RelativeToolTip": "UserService\\Migrations\\20240404073909_akashFirst.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T07:39:09.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T07:39:09.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "20240404071039_akashFirst.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Migrations\\20240404071039_akashFirst.cs",
               "RelativeDocumentMoniker": "ExpertsService\\Migrations\\20240404071039_akashFirst.cs",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "ExpertsService\\Migrations\\20240404071039_akashFirst.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T07:10:39.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T07:10:39.72Z"
             },
             {
               "$type": "Document",
@@ -124,12 +122,11 @@
               "RelativeToolTip": "UserService\\Data\\UserDbContext.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T06:11:05.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T06:11:05.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\appsettings.json",
               "RelativeDocumentMoniker": "ExpertsService\\appsettings.json",
@@ -137,12 +134,11 @@
               "RelativeToolTip": "ExpertsService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-04T05:52:18.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T05:52:18.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Program.cs",
               "RelativeDocumentMoniker": "ExpertsService\\Program.cs",
@@ -150,12 +146,11 @@
               "RelativeToolTip": "ExpertsService\\Program.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAjwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T04:25:00.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T04:25:00.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ExpertsController.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Controllers\\ExpertsController.cs",
               "RelativeDocumentMoniker": "ExpertsService\\Controllers\\ExpertsController.cs",
@@ -163,8 +158,7 @@
               "RelativeToolTip": "ExpertsService\\Controllers\\ExpertsController.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAArwDcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T04:19:26.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T04:19:26.926Z"
             },
             {
               "$type": "Document",
@@ -174,14 +168,14 @@
               "RelativeDocumentMoniker": "UserService\\Program.cs",
               "ToolTip": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\UserService\\Program.cs",
               "RelativeToolTip": "UserService\\Program.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAswGEAAABFAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswGwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T15:25:02.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ExpertsBusinessProcessor.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Logic\\ExpertsBusinessProcessor.cs",
               "RelativeDocumentMoniker": "ExpertsService\\Logic\\ExpertsBusinessProcessor.cs",
@@ -189,12 +183,11 @@
               "RelativeToolTip": "ExpertsService\\Logic\\ExpertsBusinessProcessor.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAewDYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T04:19:26.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T04:19:26.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Experts.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Models\\Experts.cs",
               "RelativeDocumentMoniker": "ExpertsService\\Models\\Experts.cs",
@@ -202,12 +195,11 @@
               "RelativeToolTip": "ExpertsService\\Models\\Experts.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T07:15:36.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T07:15:36.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ExpertsType.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Models\\ExpertsType.cs",
               "RelativeDocumentMoniker": "ExpertsService\\Models\\ExpertsType.cs",
@@ -215,12 +207,11 @@
               "RelativeToolTip": "ExpertsService\\Models\\ExpertsType.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T07:14:20.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T07:14:20.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "GetExpertsHandler.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Handlers\\GetExpertsHandler.cs",
               "RelativeDocumentMoniker": "ExpertsService\\Handlers\\GetExpertsHandler.cs",
@@ -228,12 +219,11 @@
               "RelativeToolTip": "ExpertsService\\Handlers\\GetExpertsHandler.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAjwAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T04:19:26.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T04:19:26.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\AuthenticationServices\\Program.cs",
               "RelativeDocumentMoniker": "AuthenticationServices\\Program.cs",
@@ -241,12 +231,11 @@
               "RelativeToolTip": "AuthenticationServices\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:51:16.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T05:51:16.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "ExpertsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Data\\ExpertsDbContext.cs",
               "RelativeDocumentMoniker": "ExpertsService\\Data\\ExpertsDbContext.cs",
@@ -254,12 +243,11 @@
               "RelativeToolTip": "ExpertsService\\Data\\ExpertsDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T07:10:40.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T07:10:40.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "UserCreatedEventConsumer.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\AuthenticationServices\\Consumers\\UserCreatedEventConsumer.cs",
               "RelativeDocumentMoniker": "AuthenticationServices\\Consumers\\UserCreatedEventConsumer.cs",
@@ -267,12 +255,11 @@
               "RelativeToolTip": "AuthenticationServices\\Consumers\\UserCreatedEventConsumer.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T04:30:10.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T04:30:10.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\WebGatewayAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebGatewayAPI\\Program.cs",
@@ -280,12 +267,11 @@
               "RelativeToolTip": "WebGatewayAPI\\Program.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T04:23:58.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T04:23:58.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "Aggregator.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\WebGatewayAPI\\Aggregator.cs",
               "RelativeDocumentMoniker": "WebGatewayAPI\\Aggregator.cs",
@@ -293,12 +279,11 @@
               "RelativeToolTip": "WebGatewayAPI\\Aggregator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T04:23:55.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T04:23:55.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "UserAndProductAggregator.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\WebGatewayAPI\\UserAndProductAggregator.cs",
               "RelativeDocumentMoniker": "WebGatewayAPI\\UserAndProductAggregator.cs",
@@ -306,12 +291,11 @@
               "RelativeToolTip": "WebGatewayAPI\\UserAndProductAggregator.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T04:24:02.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T04:24:02.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "CreateExpertsHandler.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Handlers\\CreateExpertsHandler.cs",
               "RelativeDocumentMoniker": "ExpertsService\\Handlers\\CreateExpertsHandler.cs",
@@ -319,12 +303,11 @@
               "RelativeToolTip": "ExpertsService\\Handlers\\CreateExpertsHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T04:20:08.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T04:20:08.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "CreateExpertsCommand.cs",
               "DocumentMoniker": "C:\\Users\\akash\\Desktop\\CoPartnerAPI\\ExpertsService\\Commands\\CreateExpertsCommand.cs",
               "RelativeDocumentMoniker": "ExpertsService\\Commands\\CreateExpertsCommand.cs",
@@ -332,8 +315,7 @@
               "RelativeToolTip": "ExpertsService\\Commands\\CreateExpertsCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T04:19:58.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T04:19:58.009Z"
             }
           ]
         }
