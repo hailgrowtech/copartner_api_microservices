@@ -22,3 +22,16 @@ C:\Users\akash\Desktop\CoPartnerAPI\Publication\obj\Debug\net8.0\Publication.dll
 C:\Users\akash\Desktop\CoPartnerAPI\Publication\obj\Debug\net8.0\refint\Publication.dll
 C:\Users\akash\Desktop\CoPartnerAPI\Publication\obj\Debug\net8.0\Publication.pdb
 C:\Users\akash\Desktop\CoPartnerAPI\Publication\obj\Debug\net8.0\ref\Publication.dll
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\bin\Debug\net8.0\Publication.deps.json
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\bin\Debug\net8.0\Publication.dll
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\bin\Debug\net8.0\Publication.pdb
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\obj\Debug\net8.0\Publication.csproj.AssemblyReference.cache
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\obj\Debug\net8.0\Publication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\obj\Debug\net8.0\Publication.AssemblyInfoInputs.cache
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\obj\Debug\net8.0\Publication.AssemblyInfo.cs
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\obj\Debug\net8.0\Publication.csproj.CoreCompileInputs.cache
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\obj\Debug\net8.0\Publication.sourcelink.json
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\obj\Debug\net8.0\Publication.dll
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\obj\Debug\net8.0\refint\Publication.dll
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\obj\Debug\net8.0\Publication.pdb
+C:\Users\akash\Desktop\Akashcopartner\copartner_api_microservices\Publication\obj\Debug\net8.0\ref\Publication.dll

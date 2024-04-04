@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpertsService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66fc2ee83519e1a3ee5959cde4f89584121a04ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c57686318bc201e545c9715b58c8b053a9f36a55")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpertsService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpertsService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
