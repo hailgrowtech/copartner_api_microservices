@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserService</name>
+    </assembly>
+    <members>
+        <member name="M:UserService.Controllers.UserController.Get">
+            <summary>
+            Gets the list of all Users.
+            </summary>
+            <returns>The list of Users.</returns>
+        </member>
+        <member name="M:UserService.Controllers.UserController.Get(System.Guid)">
+            <summary>
+            Get an User.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET : api/User/1
+            </remarks>
+            <param name="Id"></param>
+        </member>
+        <member name="M:UserService.Logic.UserBusinessProcessor.Post(UserService.Dtos.UserCreateDto)">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,349 @@
+[2024-04-03 17:05:02.461 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 17:05:02.488 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 17:05:02.523 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 17:05:02.527 +05:30  INF]  Hosting environment: Development
+[2024-04-03 17:05:02.528 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 17:05:04.586 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger - null null
+[2024-04-03 17:07:36.341 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 17:07:36.373 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 17:07:36.422 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 17:07:36.424 +05:30  INF]  Hosting environment: Development
+[2024-04-03 17:07:36.427 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 17:07:38.483 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger - null null
+[2024-04-03 17:08:00.587 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 17:08:00.623 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 17:08:00.674 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 17:08:00.676 +05:30  INF]  Hosting environment: Development
+[2024-04-03 17:08:00.678 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 17:08:03.428 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger - null null
+[2024-04-03 17:08:03.572 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger - 301 0 null 171.7141ms
+[2024-04-03 17:08:03.585 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 17:08:03.718 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 134.5865ms
+[2024-04-03 17:08:03.804 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/swagger-ui-bundle.js - null null
+[2024-04-03 17:08:03.804 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/swagger-ui.css - null null
+[2024-04-03 17:08:03.804 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/swagger-ui-standalone-preset.js - null null
+[2024-04-03 17:08:03.804 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 17:08:03.885 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 82.0532ms
+[2024-04-03 17:08:03.894 +05:30  INF]  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+[2024-04-03 17:08:03.895 +05:30  INF]  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+[2024-04-03 17:08:03.944 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/swagger-ui.css - 200 143943 text/css 140.6089ms
+[2024-04-03 17:08:03.954 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 150.3629ms
+[2024-04-03 17:08:03.968 +05:30  INF]  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+[2024-04-03 17:08:04.007 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 203.2335ms
+[2024-04-03 17:08:04.293 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 17:08:04.333 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/favicon-32x32.png - null null
+[2024-04-03 17:08:04.360 +05:30  INF]  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+[2024-04-03 17:08:04.377 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/favicon-32x32.png - 200 628 image/png 43.9834ms
+[2024-04-03 17:08:04.557 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 265.0833ms
+[2024-04-03 17:08:13.400 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/Experts - null null
+[2024-04-03 17:08:13.504 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:08:13.523 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 17:08:13.640 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 17:08:13.648 +05:30  INF]  Fetching User Data..
+[2024-04-03 17:08:13.724 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 192.3223ms
+[2024-04-03 17:08:13.731 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:08:13.771 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/Experts - 500 null application/json 371.5134ms
+[2024-04-03 17:08:40.780 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/Experts - null null
+[2024-04-03 17:08:40.801 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:08:40.804 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 17:08:40.809 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 17:08:43.320 +05:30  INF]  Fetching User Data..
+[2024-04-03 17:08:55.533 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 14724.8391ms
+[2024-04-03 17:08:55.540 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:10:46.028 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 17:10:46.059 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 17:10:46.097 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 17:10:46.099 +05:30  INF]  Hosting environment: Development
+[2024-04-03 17:10:46.100 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 17:10:48.142 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 17:10:48.275 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 146.9991ms
+[2024-04-03 17:10:48.330 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 17:10:48.347 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 17.585ms
+[2024-04-03 17:10:48.517 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 17:10:48.664 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 147.3392ms
+[2024-04-03 17:10:53.105 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/Experts - null null
+[2024-04-03 17:10:53.145 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:10:53.163 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 17:10:53.266 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 17:10:55.563 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 17:10:55.633 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 2462.0512ms
+[2024-04-03 17:10:55.638 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:10:55.678 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/Experts - 500 null application/json 2573.6477ms
+[2024-04-03 17:18:02.131 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 17:18:02.160 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 17:18:02.196 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 17:18:02.198 +05:30  INF]  Hosting environment: Development
+[2024-04-03 17:18:02.200 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 17:18:03.862 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 17:18:03.969 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 124.1263ms
+[2024-04-03 17:18:04.015 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 17:18:04.108 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 93.1246ms
+[2024-04-03 17:18:04.145 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 17:18:04.245 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 100.7363ms
+[2024-04-03 17:19:09.547 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 17:19:09.559 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 12.6618ms
+[2024-04-03 17:19:09.565 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 17:19:09.584 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 19.1842ms
+[2024-04-03 17:19:09.644 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 17:19:09.660 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 16.0438ms
+[2024-04-03 17:19:53.897 +05:30  INF]  Request starting HTTP/2 POST https://localhost:7093/api/Experts - application/json-patch+json 316
+[2024-04-03 17:19:53.914 +05:30  INF]  CORS policy execution successful.
+[2024-04-03 17:19:53.944 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Post (ExpertsService)'
+[2024-04-03 17:19:53.966 +05:30  INF]  Route matched with {action = "Post", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Post(ExpertService.Dtos.ExpertsCreateDto) on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 17:19:54.142 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Post (ExpertsService) - Validation state: "Valid"
+[2024-04-03 17:19:54.223 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Post (ExpertsService) in 249.5086ms
+[2024-04-03 17:19:54.227 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Post (ExpertsService)'
+[2024-04-03 17:19:54.258 +05:30  INF]  Request finished HTTP/2 POST https://localhost:7093/api/Experts - 500 null application/json 361.2984ms
+[2024-04-03 17:21:02.175 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 17:21:02.215 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 17:21:02.268 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 17:21:02.271 +05:30  INF]  Hosting environment: Development
+[2024-04-03 17:21:02.273 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 17:21:05.487 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 17:21:05.748 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 285.7176ms
+[2024-04-03 17:21:05.940 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 17:21:05.969 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 29.8723ms
+[2024-04-03 17:21:06.104 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 17:21:06.334 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 230.0625ms
+[2024-04-03 17:21:09.581 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/Experts - null null
+[2024-04-03 17:21:09.622 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:21:09.651 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 17:21:09.820 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 17:21:11.817 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 17:21:11.876 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 2213.943ms
+[2024-04-03 17:21:11.880 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:21:11.920 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/Experts - 500 null application/json 2340.0072ms
+[2024-04-03 17:25:01.404 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 17:25:01.430 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 17:25:01.465 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 17:25:01.467 +05:30  INF]  Hosting environment: Development
+[2024-04-03 17:25:01.468 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 17:25:03.437 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 17:25:03.567 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 147.9464ms
+[2024-04-03 17:25:03.618 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 17:25:03.635 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 17.1889ms
+[2024-04-03 17:25:03.704 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 17:25:03.833 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 129.4539ms
+[2024-04-03 17:35:18.963 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 17:35:18.999 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 17:35:19.048 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 17:35:19.051 +05:30  INF]  Hosting environment: Development
+[2024-04-03 17:35:19.053 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 17:35:20.962 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 17:35:21.109 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 166.6655ms
+[2024-04-03 17:35:21.168 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 17:35:21.185 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 18.48ms
+[2024-04-03 17:35:21.243 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 17:35:21.348 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 104.6229ms
+[2024-04-03 17:35:25.248 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/Experts - null null
+[2024-04-03 17:35:25.311 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:35:25.342 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 17:35:25.515 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 17:35:28.735 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 17:35:41.535 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 16182.0009ms
+[2024-04-03 17:35:41.541 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:36:13.566 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/Experts - 500 null application/json 48317.1286ms
+[2024-04-03 17:44:55.632 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 17:44:55.662 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 17:44:55.701 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 17:44:55.702 +05:30  INF]  Hosting environment: Development
+[2024-04-03 17:44:55.704 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 17:44:58.146 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 17:44:58.425 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 301.5645ms
+[2024-04-03 17:44:58.518 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 17:44:58.539 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 21.0609ms
+[2024-04-03 17:44:58.673 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 17:44:58.867 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 194.4898ms
+[2024-04-03 17:45:02.542 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/Experts - null null
+[2024-04-03 17:45:02.665 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:45:02.689 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 17:45:02.876 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 17:45:07.634 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 17:45:08.195 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 5494.2565ms
+[2024-04-03 17:45:08.203 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 17:45:11.222 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/Experts - 500 null application/json 8681.2793ms
+[2024-04-03 19:32:10.341 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 19:32:10.385 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 19:32:10.445 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 19:32:10.449 +05:30  INF]  Hosting environment: Development
+[2024-04-03 19:32:10.452 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 19:32:22.820 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 19:32:22.864 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 19:32:22.926 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 19:32:22.929 +05:30  INF]  Hosting environment: Development
+[2024-04-03 19:32:22.933 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 19:32:25.605 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 19:33:36.407 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 19:33:36.447 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 19:33:36.501 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 19:33:36.505 +05:30  INF]  Hosting environment: Development
+[2024-04-03 19:33:36.507 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 19:33:39.131 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 19:33:39.339 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 230.4109ms
+[2024-04-03 19:33:39.428 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 19:33:39.451 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 23.4105ms
+[2024-04-03 19:33:39.564 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 19:33:39.719 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 156.0574ms
+[2024-04-03 19:33:46.122 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/Experts - null null
+[2024-04-03 19:33:46.219 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:33:46.238 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 19:33:46.354 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 19:33:48.111 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 19:33:48.178 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 1932.3334ms
+[2024-04-03 19:33:48.184 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:33:48.222 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/Experts - 500 null application/json 2101.364ms
+[2024-04-03 19:35:05.068 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 19:35:05.097 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 19:35:05.130 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 19:35:05.132 +05:30  INF]  Hosting environment: Development
+[2024-04-03 19:35:05.133 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 19:35:06.887 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 19:35:07.105 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 235.0587ms
+[2024-04-03 19:35:07.143 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 19:35:07.175 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 32.14ms
+[2024-04-03 19:35:07.255 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 19:35:07.365 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 110.7026ms
+[2024-04-03 19:35:20.868 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/Experts - null null
+[2024-04-03 19:35:20.901 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:35:20.916 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 19:35:21.019 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 19:35:23.642 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 19:35:31.010 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 10086.1808ms
+[2024-04-03 19:35:31.017 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:35:51.123 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/Experts - 500 null application/json 30255.5649ms
+[2024-04-03 19:35:54.602 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/Experts - null null
+[2024-04-03 19:35:54.625 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:35:54.630 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 19:35:54.636 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 19:35:56.305 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 19:36:03.792 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 9157.405ms
+[2024-04-03 19:36:03.798 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:36:07.072 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/Experts - 500 null application/json 12471.1736ms
+[2024-04-03 19:36:09.231 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/Experts - null null
+[2024-04-03 19:36:09.252 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:36:09.261 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 19:36:09.269 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 19:36:11.113 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 19:36:25.786 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 16518.4393ms
+[2024-04-03 19:36:25.793 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:56:18.934 +05:30  INF]  Now listening on: https://localhost:7094
+[2024-04-03 19:56:19.059 +05:30  INF]  Now listening on: http://localhost:5132
+[2024-04-03 19:56:19.172 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 19:56:19.181 +05:30  INF]  Hosting environment: Development
+[2024-04-03 19:56:19.220 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 19:56:22.591 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger - null null
+[2024-04-03 19:56:22.793 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger - 301 0 null 238.8134ms
+[2024-04-03 19:56:22.805 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - null null
+[2024-04-03 19:56:22.975 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - 200 null text/html;charset=utf-8 171.7238ms
+[2024-04-03 19:56:23.078 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/swagger-ui-bundle.js - null null
+[2024-04-03 19:56:23.078 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/swagger-ui.css - null null
+[2024-04-03 19:56:23.079 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/swagger-ui-standalone-preset.js - null null
+[2024-04-03 19:56:23.081 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 19:56:23.153 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 73.1102ms
+[2024-04-03 19:56:23.174 +05:30  INF]  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+[2024-04-03 19:56:23.231 +05:30  INF]  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+[2024-04-03 19:56:23.253 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/swagger-ui.css - 200 143943 text/css 175.8222ms
+[2024-04-03 19:56:23.266 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 188.1958ms
+[2024-04-03 19:56:23.280 +05:30  INF]  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+[2024-04-03 19:56:23.312 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 234.1932ms
+[2024-04-03 19:56:23.667 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - null null
+[2024-04-03 19:56:23.720 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/favicon-32x32.png - null null
+[2024-04-03 19:56:23.755 +05:30  INF]  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+[2024-04-03 19:56:23.768 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/favicon-32x32.png - 200 628 image/png 48.6744ms
+[2024-04-03 19:56:23.946 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 279.5003ms
+[2024-04-03 19:56:27.896 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/api/Experts - null null
+[2024-04-03 19:56:27.958 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:56:27.994 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 19:56:28.207 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 19:56:30.185 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 19:57:58.727 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 90716.7466ms
+[2024-04-03 19:57:58.744 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:59:03.056 +05:30  INF]  Now listening on: https://localhost:7094
+[2024-04-03 19:59:03.093 +05:30  INF]  Now listening on: http://localhost:5132
+[2024-04-03 19:59:03.159 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 19:59:03.163 +05:30  INF]  Hosting environment: Development
+[2024-04-03 19:59:03.167 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 19:59:06.306 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - null null
+[2024-04-03 19:59:06.514 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - 200 null text/html;charset=utf-8 230.8919ms
+[2024-04-03 19:59:06.737 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 19:59:06.772 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 36.3601ms
+[2024-04-03 19:59:07.147 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - null null
+[2024-04-03 19:59:07.375 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 228.3438ms
+[2024-04-03 19:59:11.387 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/api/Experts - null null
+[2024-04-03 19:59:11.545 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 19:59:11.584 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 19:59:11.856 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 19:59:14.656 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 20:06:34.904 +05:30  INF]  Now listening on: https://localhost:7094
+[2024-04-03 20:06:34.962 +05:30  INF]  Now listening on: http://localhost:5132
+[2024-04-03 20:06:35.031 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 20:06:35.034 +05:30  INF]  Hosting environment: Development
+[2024-04-03 20:06:35.036 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 20:06:38.329 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - null null
+[2024-04-03 20:06:38.607 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - 200 null text/html;charset=utf-8 312.3972ms
+[2024-04-03 20:06:38.729 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 20:06:38.767 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 37.9372ms
+[2024-04-03 20:06:38.922 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - null null
+[2024-04-03 20:06:39.288 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 366.36ms
+[2024-04-03 20:06:43.871 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/api/Experts - null null
+[2024-04-03 20:06:43.925 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 20:06:43.955 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 20:06:44.108 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 20:06:46.620 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 20:32:34.418 +05:30  INF]  Now listening on: https://localhost:7094
+[2024-04-03 20:32:34.463 +05:30  INF]  Now listening on: http://localhost:5132
+[2024-04-03 20:32:34.520 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 20:32:34.523 +05:30  INF]  Hosting environment: Development
+[2024-04-03 20:32:34.525 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 20:32:37.913 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - null null
+[2024-04-03 20:32:38.353 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - 200 null text/html;charset=utf-8 475.0756ms
+[2024-04-03 20:32:38.460 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 20:32:38.491 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 31.7344ms
+[2024-04-03 20:32:38.614 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - null null
+[2024-04-03 20:32:38.942 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 328.0731ms
+[2024-04-03 20:32:47.242 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/api/Experts - null null
+[2024-04-03 20:32:47.311 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 20:32:47.346 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 20:32:47.524 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 20:32:50.623 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 20:32:52.505 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 5148.5774ms
+[2024-04-03 20:32:52.514 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 20:32:52.572 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/api/Experts - 500 null application/json 5331.1462ms
+[2024-04-03 20:40:06.120 +05:30  INF]  Now listening on: https://localhost:7094
+[2024-04-03 20:40:06.184 +05:30  INF]  Now listening on: http://localhost:5132
+[2024-04-03 20:40:06.258 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 20:40:06.261 +05:30  INF]  Hosting environment: Development
+[2024-04-03 20:40:06.265 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 20:40:09.928 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - null null
+[2024-04-03 20:40:10.186 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - 200 null text/html;charset=utf-8 289.8215ms
+[2024-04-03 20:40:10.455 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 20:40:10.559 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 105.3136ms
+[2024-04-03 20:40:10.921 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - null null
+[2024-04-03 20:40:12.636 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 1715.0234ms
+[2024-04-03 20:40:20.920 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/api/Experts - null null
+[2024-04-03 20:40:21.038 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 20:40:21.067 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 20:40:21.213 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 20:40:24.385 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 20:40:26.064 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 4984.7047ms
+[2024-04-03 20:40:26.077 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 20:40:26.167 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/api/Experts - 500 null application/json 5247.553ms
+[2024-04-03 20:46:55.117 +05:30  INF]  Now listening on: https://localhost:7094
+[2024-04-03 20:46:55.143 +05:30  INF]  Now listening on: http://localhost:5132
+[2024-04-03 20:46:55.181 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 20:46:55.183 +05:30  INF]  Hosting environment: Development
+[2024-04-03 20:46:55.184 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\ExpertsService
+[2024-04-03 20:46:57.005 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - null null
+[2024-04-03 20:46:57.125 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - 200 null text/html;charset=utf-8 136.2418ms
+[2024-04-03 20:46:57.176 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 20:46:57.193 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 17.2716ms
+[2024-04-03 20:46:57.253 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - null null
+[2024-04-03 20:46:57.377 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 124.6282ms
+[2024-04-03 20:47:21.439 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7094/api/Experts - null null
+[2024-04-03 20:47:21.483 +05:30  INF]  Executing endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 20:47:21.510 +05:30  INF]  Route matched with {action = "Get", controller = "Experts"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller ExpertService.Controllers.ExpertsController (ExpertsService).
+[2024-04-03 20:47:21.669 +05:30  INF]  Executing action method ExpertService.Controllers.ExpertsController.Get (ExpertsService) - Validation state: "Valid"
+[2024-04-03 20:47:23.742 +05:30  INF]  Fetching Experts Data..
+[2024-04-03 20:47:24.940 +05:30  INF]  Executed action ExpertService.Controllers.ExpertsController.Get (ExpertsService) in 3418.5495ms
+[2024-04-03 20:47:24.945 +05:30  INF]  Executed endpoint 'ExpertService.Controllers.ExpertsController.Get (ExpertsService)'
+[2024-04-03 20:47:24.987 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7094/api/Experts - 500 null application/json 3548.3846ms

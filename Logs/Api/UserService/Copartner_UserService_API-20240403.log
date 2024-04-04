@@ -1,0 +1,179 @@
+[2024-04-03 17:21:39.738 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 17:21:39.779 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 17:21:39.832 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 17:21:39.835 +05:30  INF]  Hosting environment: Development
+[2024-04-03 17:21:39.837 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService
+[2024-04-03 17:21:43.091 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 17:21:43.369 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 318.6412ms
+[2024-04-03 17:21:43.476 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 17:21:43.509 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 33.0038ms
+[2024-04-03 17:21:43.653 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 17:21:43.929 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 276.6719ms
+[2024-04-03 17:21:48.586 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/User - null null
+[2024-04-03 17:21:48.631 +05:30  INF]  Executing endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 17:21:48.652 +05:30  INF]  Route matched with {action = "Get", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller UserService.Controllers.UserController (UserService).
+[2024-04-03 17:21:48.772 +05:30  INF]  Executing action method UserService.Controllers.UserController.Get (UserService) - Validation state: "Valid"
+[2024-04-03 17:21:48.780 +05:30  INF]  Fetching User Data..
+[2024-04-03 17:21:49.181 +05:30  INF]  Executed action method UserService.Controllers.UserController.Get (UserService), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 396.3802ms.
+[2024-04-03 17:21:49.201 +05:30  INF]  Executing OkObjectResult, writing value of type 'CommonLibrary.CommonDTOs.ResponseDto'.
+[2024-04-03 17:21:49.355 +05:30  INF]  Executed action UserService.Controllers.UserController.Get (UserService) in 690.7307ms
+[2024-04-03 17:21:49.363 +05:30  INF]  Executed endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 17:21:49.377 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/User - 200 324 application/json; charset=utf-8 791.4635ms
+[2024-04-03 20:53:28.943 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 20:53:28.976 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 20:53:29.019 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 20:53:29.022 +05:30  INF]  Hosting environment: Development
+[2024-04-03 20:53:29.025 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService
+[2024-04-03 20:53:32.237 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 20:53:32.539 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 337.4472ms
+[2024-04-03 20:53:32.649 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 20:53:32.686 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 38.2829ms
+[2024-04-03 20:53:32.822 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 20:53:33.151 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 329.5489ms
+[2024-04-03 20:53:38.382 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/User - null null
+[2024-04-03 20:53:38.521 +05:30  INF]  Executing endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 20:53:38.553 +05:30  INF]  Route matched with {action = "Get", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller UserService.Controllers.UserController (UserService).
+[2024-04-03 20:53:38.721 +05:30  INF]  Executing action method UserService.Controllers.UserController.Get (UserService) - Validation state: "Valid"
+[2024-04-03 20:53:38.731 +05:30  INF]  Fetching User Data..
+[2024-04-03 20:53:38.869 +05:30  INF]  Executed action UserService.Controllers.UserController.Get (UserService) in 303.526ms
+[2024-04-03 20:53:38.877 +05:30  INF]  Executed endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 20:53:38.958 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/User - 500 null application/json 575.4116ms
+[2024-04-03 20:54:01.192 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 20:54:01.263 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 20:54:01.359 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 20:54:01.363 +05:30  INF]  Hosting environment: Development
+[2024-04-03 20:54:01.366 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService
+[2024-04-03 20:54:04.116 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 20:54:04.356 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 266.0893ms
+[2024-04-03 20:54:04.539 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 20:54:04.575 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 36.5193ms
+[2024-04-03 20:54:04.706 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 20:54:04.941 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 235.1767ms
+[2024-04-03 20:54:09.146 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/User - null null
+[2024-04-03 20:54:09.207 +05:30  INF]  Executing endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 20:54:09.251 +05:30  INF]  Route matched with {action = "Get", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller UserService.Controllers.UserController (UserService).
+[2024-04-03 20:54:09.491 +05:30  INF]  Executing action method UserService.Controllers.UserController.Get (UserService) - Validation state: "Valid"
+[2024-04-03 20:54:09.503 +05:30  INF]  Fetching User Data..
+[2024-04-03 20:54:09.644 +05:30  INF]  Executed action UserService.Controllers.UserController.Get (UserService) in 373.34ms
+[2024-04-03 20:54:09.657 +05:30  INF]  Executed endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 20:54:09.728 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/User - 500 null application/json 582.8668ms
+[2024-04-03 20:54:38.200 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 20:54:38.238 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 20:54:38.294 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 20:54:38.298 +05:30  INF]  Hosting environment: Development
+[2024-04-03 20:54:38.301 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService
+[2024-04-03 20:54:41.409 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 20:54:41.781 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 411.6643ms
+[2024-04-03 20:54:41.903 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 20:54:41.950 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 47.1351ms
+[2024-04-03 20:54:42.086 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 20:54:42.427 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 341.9164ms
+[2024-04-03 20:54:49.642 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/User - null null
+[2024-04-03 20:54:49.701 +05:30  INF]  Executing endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 20:54:49.733 +05:30  INF]  Route matched with {action = "Get", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller UserService.Controllers.UserController (UserService).
+[2024-04-03 20:54:49.900 +05:30  INF]  Executing action method UserService.Controllers.UserController.Get (UserService) - Validation state: "Valid"
+[2024-04-03 20:54:49.909 +05:30  INF]  Fetching User Data..
+[2024-04-03 20:54:50.055 +05:30  INF]  Executed action UserService.Controllers.UserController.Get (UserService) in 309.6664ms
+[2024-04-03 20:54:50.066 +05:30  INF]  Executed endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 20:54:50.122 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/User - 500 null application/json 481.3581ms
+[2024-04-03 20:55:31.906 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 20:55:31.965 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 20:55:32.061 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 20:55:32.066 +05:30  INF]  Hosting environment: Development
+[2024-04-03 20:55:32.071 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService
+[2024-04-03 20:55:35.362 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 20:55:35.654 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 342.0447ms
+[2024-04-03 20:55:35.746 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 20:55:35.774 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 28.7891ms
+[2024-04-03 20:55:35.920 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 20:55:36.202 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 282.9541ms
+[2024-04-03 20:55:41.566 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/User - null null
+[2024-04-03 20:55:41.632 +05:30  INF]  Executing endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 20:55:41.675 +05:30  INF]  Route matched with {action = "Get", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller UserService.Controllers.UserController (UserService).
+[2024-04-03 20:55:41.905 +05:30  INF]  Executing action method UserService.Controllers.UserController.Get (UserService) - Validation state: "Valid"
+[2024-04-03 20:55:41.913 +05:30  INF]  Fetching User Data..
+[2024-04-03 20:55:42.083 +05:30  INF]  Executed action UserService.Controllers.UserController.Get (UserService) in 391.4185ms
+[2024-04-03 20:55:42.108 +05:30  INF]  Executed endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 20:55:42.173 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/User - 500 null application/json 607.2834ms
+[2024-04-03 20:57:16.753 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 20:57:16.796 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 20:57:16.854 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 20:57:16.858 +05:30  INF]  Hosting environment: Development
+[2024-04-03 20:57:16.861 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService
+[2024-04-03 20:57:19.427 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 20:57:19.743 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 352.6589ms
+[2024-04-03 20:57:19.870 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 20:57:19.915 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 45.4061ms
+[2024-04-03 20:57:20.082 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 20:57:20.632 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 550.9008ms
+[2024-04-03 20:57:25.041 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/User - null null
+[2024-04-03 20:57:25.187 +05:30  INF]  Executing endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 20:57:25.230 +05:30  INF]  Route matched with {action = "Get", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller UserService.Controllers.UserController (UserService).
+[2024-04-03 20:57:25.420 +05:30  INF]  Executing action method UserService.Controllers.UserController.Get (UserService) - Validation state: "Valid"
+[2024-04-03 20:57:25.435 +05:30  INF]  Fetching User Data..
+[2024-04-03 20:57:25.570 +05:30  INF]  Executed action UserService.Controllers.UserController.Get (UserService) in 324.5618ms
+[2024-04-03 20:57:25.578 +05:30  INF]  Executed endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 20:57:25.637 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/User - 500 null application/json 597.4465ms
+[2024-04-03 21:01:15.798 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 21:01:15.876 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 21:01:15.976 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 21:01:15.980 +05:30  INF]  Hosting environment: Development
+[2024-04-03 21:01:15.985 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService
+[2024-04-03 21:01:23.377 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 21:01:26.720 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 3416.4313ms
+[2024-04-03 21:01:26.720 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 21:01:26.720 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_vs/browserLink - null null
+[2024-04-03 21:01:27.300 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_vs/browserLink - 200 null text/javascript; charset=UTF-8 579.5357ms
+[2024-04-03 21:01:27.466 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 747.4499ms
+[2024-04-03 21:01:27.584 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 21:01:28.298 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 714.5233ms
+[2024-04-03 21:01:34.566 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/User - null null
+[2024-04-03 21:01:34.647 +05:30  INF]  Executing endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 21:01:34.696 +05:30  INF]  Route matched with {action = "Get", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller UserService.Controllers.UserController (UserService).
+[2024-04-03 21:01:34.949 +05:30  INF]  Executing action method UserService.Controllers.UserController.Get (UserService) - Validation state: "Valid"
+[2024-04-03 21:01:34.963 +05:30  INF]  Fetching User Data..
+[2024-04-03 21:01:35.120 +05:30  INF]  Executed action UserService.Controllers.UserController.Get (UserService) in 405.3871ms
+[2024-04-03 21:01:35.128 +05:30  INF]  Executed endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 21:01:35.183 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/User - 500 null application/json 618.1043ms
+[2024-04-03 21:02:16.291 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 21:02:16.326 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 21:02:16.358 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 21:02:16.360 +05:30  INF]  Hosting environment: Development
+[2024-04-03 21:02:16.361 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService
+[2024-04-03 21:02:19.216 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 21:02:19.717 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 541.1916ms
+[2024-04-03 21:02:19.848 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 21:02:19.848 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_vs/browserLink - null null
+[2024-04-03 21:02:19.885 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 37.441ms
+[2024-04-03 21:02:20.045 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_vs/browserLink - 200 null text/javascript; charset=UTF-8 197.7957ms
+[2024-04-03 21:02:20.216 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 21:02:20.661 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 445.9106ms
+[2024-04-03 21:02:28.639 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/User - null null
+[2024-04-03 21:02:28.813 +05:30  INF]  Executing endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 21:02:28.869 +05:30  INF]  Route matched with {action = "Get", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller UserService.Controllers.UserController (UserService).
+[2024-04-03 21:02:29.409 +05:30  INF]  Executing action method UserService.Controllers.UserController.Get (UserService) - Validation state: "Valid"
+[2024-04-03 21:02:29.483 +05:30  INF]  Fetching User Data..
+[2024-04-03 21:02:29.789 +05:30  INF]  Executed action UserService.Controllers.UserController.Get (UserService) in 881.9763ms
+[2024-04-03 21:02:29.805 +05:30  INF]  Executed endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 21:02:29.926 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/User - 500 null application/json 1289.4013ms
+[2024-04-03 21:10:35.981 +05:30  INF]  Now listening on: https://localhost:7093
+[2024-04-03 21:10:36.010 +05:30  INF]  Now listening on: http://localhost:5131
+[2024-04-03 21:10:36.042 +05:30  INF]  Application started. Press Ctrl+C to shut down.
+[2024-04-03 21:10:36.046 +05:30  INF]  Hosting environment: Development
+[2024-04-03 21:10:36.047 +05:30  INF]  Content root path: D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService
+[2024-04-03 21:10:37.914 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/index.html - null null
+[2024-04-03 21:10:38.065 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/index.html - 200 null text/html;charset=utf-8 166.4708ms
+[2024-04-03 21:10:38.109 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - null null
+[2024-04-03 21:10:38.109 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/_vs/browserLink - null null
+[2024-04-03 21:10:38.123 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 14.7555ms
+[2024-04-03 21:10:38.164 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.7722ms
+[2024-04-03 21:10:38.201 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - null null
+[2024-04-03 21:10:38.310 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 109.9074ms
+[2024-04-03 21:10:45.197 +05:30  INF]  Request starting HTTP/2 GET https://localhost:7093/api/User - null null
+[2024-04-03 21:10:45.226 +05:30  INF]  Executing endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 21:10:45.244 +05:30  INF]  Route matched with {action = "Get", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] Get() on controller UserService.Controllers.UserController (UserService).
+[2024-04-03 21:10:45.330 +05:30  INF]  Executing action method UserService.Controllers.UserController.Get (UserService) - Validation state: "Valid"
+[2024-04-03 21:10:45.335 +05:30  INF]  Fetching User Data..
+[2024-04-03 21:10:45.392 +05:30  INF]  Executed action UserService.Controllers.UserController.Get (UserService) in 142.2531ms
+[2024-04-03 21:10:45.395 +05:30  INF]  Executed endpoint 'UserService.Controllers.UserController.Get (UserService)'
+[2024-04-03 21:10:45.422 +05:30  INF]  Request finished HTTP/2 GET https://localhost:7093/api/User - 500 null application/json 225.9588ms

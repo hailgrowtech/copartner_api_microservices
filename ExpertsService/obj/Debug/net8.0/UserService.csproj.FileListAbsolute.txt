@@ -1,0 +1,7 @@
+D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService\obj\Debug\net8.0\UserService.csproj.AssemblyReference.cache
+D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService\obj\Debug\net8.0\UserService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService\obj\Debug\net8.0\UserService.AssemblyInfoInputs.cache
+D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService\obj\Debug\net8.0\UserService.AssemblyInfo.cs
+D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService\obj\Debug\net8.0\UserService.csproj.CoreCompileInputs.cache
+D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService\obj\Debug\net8.0\UserService.MvcApplicationPartsAssemblyInfo.cs
+D:\Dave\Projects\HailGrowTech\CoPartnerAPI\UserService\obj\Debug\net8.0\UserService.MvcApplicationPartsAssemblyInfo.cache

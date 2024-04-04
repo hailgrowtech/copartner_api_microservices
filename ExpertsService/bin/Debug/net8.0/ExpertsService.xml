@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExpertsService</name>
+    </assembly>
+    <members>
+        <member name="M:ExpertsService.Controllers.ExpertsController.Get">
+            <summary>
+            Gets the list of all Experts.
+            </summary>
+            <returns>The list of Experts.</returns>
+        </member>
+        <member name="M:ExpertsService.Controllers.ExpertsController.Get(System.Guid)">
+            <summary>
+            Get a Experts.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET : api/Experts/1
+            </remarks>
+            <param name="Id"></param>
+        </member>
+        <member name="M:ExpertsService.Logic.ExpertsBusinessProcessor.Post(UserService.Dtos.ExpertsCreateDto)">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>
